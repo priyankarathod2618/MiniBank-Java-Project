@@ -1,0 +1,6 @@
+BANK TRANSACTION REPORT
+=======================
+Transaction count: 3
+Total deposits: Rs. 1500.0
+Total withdrawals: Rs. 200.0
+Net amount: Rs. 1300.0
